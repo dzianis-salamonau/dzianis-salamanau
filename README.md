@@ -65,5 +65,5 @@ Battle-tested Docker, Kubernetes, Nginx, and CI/CD configurations.
 
 ## Connect
 
-- LinkedIn: YOUR_LINK
-- Upwork: YOUR_LINK
+- LinkedIn: https://www.linkedin.com/in/dzianis-salamonau-4707bb170/
+- Upwork: https://www.upwork.com/freelancers/~01f7bc7fc56620337a
